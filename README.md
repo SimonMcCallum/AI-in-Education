@@ -13,7 +13,8 @@ Icons for indicating AI use in assessments are below. I have included the svg an
 
 ![AI good - aquare with green tick and letters 'A' 'I'](/img/AIGreen.svg) AI Green - Students are encouraged to use AI tools to assist in the learning and production of content. Students need to reference the technology they are using and will be assessed assuming full access to AI tools.
 
- 
+## Prompt Engineering
+There are lots of suggestions for how to use AI tools to assist in learning. Creationg good input is called [Prompt Engineering](/promptEngineering.md). 
 
 ## Ideas for updating
 We have some general recommendations for things that lectures could consider when updating assessments:
