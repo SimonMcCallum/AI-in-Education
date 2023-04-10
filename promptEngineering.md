@@ -21,4 +21,4 @@ AI can be used for different parts of education.
 
 ## Example prompts
 
-1. Teach me about [topic], using principles, terminology and concepts from [scaffold topic] which I know a lot about. [Integration Example](examples/integrationrugby)
+1. Teach me about [topic], using principles, terminology and concepts from [scaffold topic] which I know a lot about. [Integration Example](examples/integrationrugby.md)
