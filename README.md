@@ -9,9 +9,28 @@ Icons for indicating AI use in assessments are below. I have included the svg an
 
 ![AI banned - red circle with crossed-out letters 'A' 'I'](/img/AIRed.svg) AI Red - Students are not allowed to use AI tools (ChatGPT, Bing Chat, Github Copilot, Google Bard, Moonbeam, etc... ) to generate submitted material, or complete coursework in this <course/assignment>
 
-![AI warning - orange triangle with letters 'A' 'I'](/img/AIOrange.svg) AI Orange - Students may use AI to assist in learning the content in this <course/assignment> and provide suggestions, however, some tasks may require students to create content and explain content without AI assistance.
+![AI warning - orange triangle with letters 'A' 'I'](/img/AIOrange.svg) AI Orange - Students may use AI to assist in learning the content in this <course/assignment> and provide suggestions, however, some tasks may require students to create content and explain content without AI assistance. Students should confirm with the course coordinator what is the approriate level of AI use. 
 
 ![AI good - aquare with green tick and letters 'A' 'I'](/img/AIGreen.svg) AI Green - Students are encouraged to use AI tools to assist in the learning and production of content. Students need to reference the technology they are using and will be assessed assuming full access to AI tools.
+
+## Referencing and Citing AI
+There are various way of using AI.  As the context window ( the amount of input the AI has access to ) increases, and AI is integrated into tools including Office365 and Google Workspaces, simply citing AI and providing prompts will not give a clear picture of the conribution by the student and the AI.  Students submitting work need to make an Authorship Declaration, similar to journal publications - https://www.sagepub.com/sites/default/files/authorship_declaration_form.pdf
+
+### Authorship delaration 
+The author list should contain only those who can legitimately claim authorship, which may include an AI system.  All those who:
+1) Have made a substantial contribution to the concept or design of the article; or the acquisition, analysis, or interpretation of data for the article; AND
+2) Drafted the article or revised it critically for important intellectual content; 
+The student should indicate that AI has helped as an author of the work and fill in the details of which parts of the work they are claiming to be their work. For example if and AI created the graphs from the students instructions then that AI has authored some of the content and that should be stated in an authorship statement. 
+The human author(s) take responsibility for all content submitted by them unless they have moved the content to an appendix and show clearly that it was created or sourced from another person/system.
+
+### Editor delaration
+The submission should include an editor delaration of an AI system, commercial editing, or person who has helped with
+1) Clarity: avoiding ambiguity, repetition and verbosity. The use of punctuation to ensure clarity of meaning and ease of reading
+2) Grammar and usage: the conventions of grammar and syntax in written language, including expression of numbers, dates, measurements, use of italics, capitalisation, hyphenation, symbols and shortened forms
+3) Spelling and punctuation
+4) The layout of Illustrations and tables
+5) Completeness and internal consistency in references (including citations, bibliography, list of references, endnotes or footnotes, and cross-references) consistency in page numbers, headers and footers
+The student should state what or who has been an editor for the submission.  There could be multiple editors credited with improving the submission.  The author still takes full responsibility for the content of the submitted work.
 
 ## Prompt Engineering
 There are lots of suggestions for how to use AI tools to assist in learning. Creationg good input is called [Prompt Engineering](/promptEngineering.md). 
@@ -42,6 +61,9 @@ We have some general recommendations for things that lectures could consider whe
       * AIs are generally developed to have a neutral position. Ask students to reflect on their personal experiences and individual belief systems.
       * Ask students to reflect on their learning in the course and how it relates to other courses they have taken.
       * Ask them for references to NZ-specific content and sources for information.
+   * Use Portfolio assessment
+      * Assess students at the end of a model, or year on the work they have included in their portfolio
+      * Use an interactive process to discuss the content of the portfolio and assess the students contribution to that portfolio.
 
 ## Ensuring assessment aligns with the learning outcomes
 * Re-evaluate the learning outcomes and associated assessment tasks and create tasks that test the outcome based on how that outcome is changed by access to AI.
